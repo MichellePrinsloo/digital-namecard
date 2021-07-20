@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Prinsloo;Michelle;;;
+FN: Michelle  Prinsloo 
+ORG:Haygrove Growing Systems;
+TITLE:PR & Marketing Officer
+EMAIL;type=INTERNET;type=WORK;type=pref:michelle@haygrove.co.za
+TEL;type=WORK;type=VOICE:+2772 252 7976
+item1.ADR;type=WORK;type=pref:;;Panorama Farm, Appletiser Road\nGrabouw\, 7160;;;
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:www.haygrove.co.za
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
